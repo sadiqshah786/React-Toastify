@@ -1,4 +1,4 @@
 # React-Toastify
 
-Thats Amzaing Library for Notifications  [Create React Notification ](https://github.com/facebook/create-react-app).
+Thats Amzaing Library for Notifications  [Create React Notification ](https://www.npmjs.com/package/react-toastify).
 
